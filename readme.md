@@ -1,9 +1,6 @@
 [example-url]: https://i.imgur.com/mHGaOX5.gif
-[npm-badge]: https://img.shields.io/npm/v/react-native-searchable-dropdown.svg?colorB=ff6d00
-[npm-url]: https://npmjs.com/package/react-native-searchable-dropdown
 [license-badge]: https://img.shields.io/npm/l/react-native-searchable-dropdown.svg?colorB=448aff
 
-[![npm][npm-badge]][npm-url]
 ![license][license-badge]
 
 # React Native Searchable Dropdown
