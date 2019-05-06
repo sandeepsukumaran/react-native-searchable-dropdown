@@ -27,5 +27,9 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/zubairpaizer/react-native-searchable-dropdown.git"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react-native": "^0.59.6"
   }
 }
